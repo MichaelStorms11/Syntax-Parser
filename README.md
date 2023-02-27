@@ -40,3 +40,4 @@ The program will display an appropriate error message.
 
 If the user did provide a file as input but the file does not exist:
 The program will display an appropriate error message.
+The program is compatible with the GNU C compiler version 5.4.0.
